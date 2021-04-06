@@ -1,0 +1,2 @@
+# rabbitmq_email
+SpringBoot整合rabbitmq发邮件
