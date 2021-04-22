@@ -1,0 +1,9 @@
+spring:
+  application:
+    name:rabbitmq-email
+
+rabbitmq:
+  host: 116.62.27.185
+  port: 5672
+  username: admin
+  password: admin
